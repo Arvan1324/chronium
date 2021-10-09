@@ -1,7 +1,7 @@
 {
   "name": "music-bot",
   "main": "index.js",
-  "author": "Wumpus",
+  "author": "IDK DEVS",
   "version": "1.0.0",
   "description": "A complete code to download for a music bot. Using a module (discord-player).",
   "scripts": {
