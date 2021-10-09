@@ -32,6 +32,13 @@ discord: {
 
 In the console, type `npm install` to install all dependencies.
 
+# IMPORTANT:
+please go in the folder of `packages` in that read the `README.md` file and follow the steps
+also if you dont do what i said this code will never ever start the bot.
+//1erick
+//IDK Devlopments
+
+
 - To start the bot :
 
 ```
